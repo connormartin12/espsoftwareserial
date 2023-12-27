@@ -19,7 +19,7 @@
         }
     ],
     "license": "LGPL-2.1+",
-    "frameworks": "arduino esp-idf",
+    "frameworks": "esp-idf",
     "platforms": [
         "espressif8266", "espressif32"
     ]
